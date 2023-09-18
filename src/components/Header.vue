@@ -1,7 +1,7 @@
 <template>
     <header>
         <div class="logo">
-            <a href="index.html" id="logo">Autoclases Pablo</a>
+            <a href="/" id="logo">Autoclases Pablo</a>
         </div>
         <nav id="menu">
             <ul id="hamburguesa">
