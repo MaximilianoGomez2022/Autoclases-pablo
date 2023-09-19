@@ -183,7 +183,7 @@ header {
   }
 
     #logo {
-        background: url(../assets/imgs/logo-2023.png);
+        background: url(../assets/imgs/logo.svg);
         background-repeat: no-repeat;
         width: 208px;
         height: 107px;
