@@ -15,7 +15,7 @@
         </figure>
         <div class="contenedor div-portada" id="servicios">
         <div class="item" data-aos="fade-up">
-            <img src="../assets/imgs/volante.svg" alt="icono de volante">
+            <img src="../assets/imgs/volante.svg" alt="icono de un volante">
             <h2>DOBLE COMANDO</h2>
             <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
         </div>
