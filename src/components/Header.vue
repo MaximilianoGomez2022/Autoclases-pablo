@@ -190,7 +190,7 @@ header {
         font-size: 0;
         position: absolute;
         z-index: 1000;
-        top: -12px;
+        top: -13px;
         left: 40px;
     }
 
