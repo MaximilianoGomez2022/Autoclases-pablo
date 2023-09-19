@@ -132,7 +132,7 @@ header {
     display: block;
     text-indent: -700px;
     overflow: hidden;
-    background: url(../assets/imgs/abrir-menu.png) center center;
+    background: url(../assets/imgs/abrir-menu.svg) center center;
     background-size: cover;
     margin-top: 11px;
     margin-right: 10px;
@@ -144,7 +144,7 @@ header {
     display: block;
     text-indent: -700px;
     overflow: hidden;
-    background: url(../assets/imgs/cerrar-menu.png) center center;
+    background: url(../assets/imgs/cerrar-menu.svg) center center;
     background-size: cover;
     margin-top: 11px;
     margin-right: 10px;
