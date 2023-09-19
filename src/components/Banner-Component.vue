@@ -14,22 +14,22 @@
         </figure>
         <div class="contenedor div-portada" id="servicios">
         <div class="item" data-aos="fade-up">
-            <img src="../assets/imgs/pastilla-1.png" alt="" srcset="">
+            <img src="../assets/imgs/volante.svg" alt="icono de volante">
             <h2>DOBLE COMANDO</h2>
             <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
         </div>
         <div class="item" data-aos="fade-up">
-            <img src="../assets/imgs/pastilla-2.png" alt="" srcset="">
+            <img src="../assets/imgs/pago.svg" alt="icono de ">
             <h2>FORMAS DE PAGO</h2>
             <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
         </div>
         <div class="item" data-aos="fade-up">
-            <img src="../assets/imgs/pastilla-3.png" alt="" srcset="">
+            <img src="../assets/imgs/ubicacion.svg" alt="icono de ubicación">
             <h2>UBICACIÓN</h2>
             <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
         </div>
         <div class="item" data-aos="fade-up">
-            <img src="../assets/imgs/pastilla-4.png" alt="" srcset="">
+            <img src="../assets/imgs/calendario-svg" alt="icono de calendario">
             <h2>HORARIOS</h2>
             <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
         </div>
