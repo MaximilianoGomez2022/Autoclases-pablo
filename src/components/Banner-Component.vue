@@ -51,14 +51,14 @@ export default {
     }
 
     .banner-portada {
-        margin-top: 125px;
+        margin-top: 88px;
         margin-bottom: 55px;
     }
 
     #texto-banner {
         text-align: center;
         position: absolute;
-        top: 200px;
+        top: 165px;
         left: 0px;
         text-align: center;
         padding: 0px 10px;

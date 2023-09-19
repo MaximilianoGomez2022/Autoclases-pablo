@@ -1,7 +1,7 @@
 <template>
     <header>
         <div class="logo">
-            <a href="/" id="logo">Autoclases Pablo</a>
+            <a href="index.html" id="logo">Autoclases Pablo</a>
         </div>
         <nav id="menu">
             <ul id="hamburguesa">
@@ -53,19 +53,19 @@ header {
     box-shadow: -1px 6px 5px 0px rgba(191,191,191,0.75);
     -webkit-box-shadow: -1px 6px 5px 0px rgba(191,191,191,0.75);
     -moz-box-shadow: -1px 6px 5px 0px rgba(191,191,191,0.75);
-    height: 110px;
+    height: 76px;
 }
 
 #logo {
-    background: url(../assets/imgs/logo-mobile.png);
+    background: url(../assets/imgs/logo.svg);
     width: 206px;
     height: 102px;
     background-repeat: no-repeat;
     font-size: 0px;
     position: absolute;
     z-index: 1000;
-    left: calc(50% - 102px);
-    top: 8px
+    left: calc(50% - 88px);
+    top: -13px
 }
 
 #hamburguesa li:last-child {
@@ -75,7 +75,7 @@ header {
 #barra {
     background: #161616;
     position: absolute;
-    top: 7em;
+    top: 5em;
     width: calc(100vw - 17px);
     height: calc(100vh - 4em);
     left: -100vw;
@@ -134,7 +134,7 @@ header {
     overflow: hidden;
     background: url(../assets/imgs/abrir-menu.png) center center;
     background-size: cover;
-    margin-top: 23px;
+    margin-top: 11px;
     margin-right: 10px;
 }
 
@@ -146,7 +146,7 @@ header {
     overflow: hidden;
     background: url(../assets/imgs/cerrar-menu.png) center center;
     background-size: cover;
-    margin-top: 23px;
+    margin-top: 11px;
     margin-right: 10px;
 }
 
