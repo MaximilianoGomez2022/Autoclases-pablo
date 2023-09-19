@@ -76,7 +76,7 @@ header {
     background: #161616;
     position: absolute;
     top: 5em;
-    width: -100vw;
+    width: calc(100vw - 17px);
     height: calc(100vh - 4em);
     left: -100vw;
     transition: all 500ms;
