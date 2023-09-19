@@ -29,7 +29,7 @@
             <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
         </div>
         <div class="item" data-aos="fade-up">
-            <img src="../assets/imgs/calendario-svg" alt="icono de calendario">
+            <img src="../assets/imgs/calendario.svg" alt="icono de calendario">
             <h2>HORARIOS</h2>
             <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
         </div>
