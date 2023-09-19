@@ -1,7 +1,7 @@
 <template>
 <section class="banner-portada">
         <div id="texto-banner" class="container">
-            <h2>AUTOCLASES PABLO</h2>
+            <h1>AUTOCLASES PABLO</h1>
             <p>Clases de manejo a domicilio</p>
             <p>Alquilamos el auto para llevarte a rendir</p>
         </div>
@@ -67,7 +67,7 @@ export default {
         width: 100%;
     }
 
-    #texto-banner h2 {
+    #texto-banner h1 {
         font-size: 2.5em;
         margin-bottom: 20px;
     }
@@ -85,7 +85,7 @@ export default {
         margin-top: 25px;
     }
 
-        #texto-banner h2 {
+        #texto-banner h1 {
         font-size: 4em;
         margin-bottom: 30px;
     }
