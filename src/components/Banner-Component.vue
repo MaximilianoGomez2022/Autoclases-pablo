@@ -8,7 +8,7 @@
         <figure>                  
             <picture >
                 <source media="(max-width: 355px)" srcset="../assets/imgs/portada-cel-355.jpg">
-                <source media="(max-width: 576px)" srcset="../assets/imgs/banner.356.jpg">
+                <source media="(max-width: 576px)" srcset="../assets/imgs/banner-576.jpg">
                 <source media="(max-width: 768px)" srcset="../assets/imgs/banner-tablet-04.jpg">
                 <img src="../assets/imgs/banner-desktop-03.jpg" alt="imgs/banner de portada iagen de un tablero de un auto">
             </picture>
