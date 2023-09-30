@@ -17,22 +17,22 @@
         <div class="item" data-aos="fade-up">
             <img src="../assets/imgs/volante.svg" alt="icono de un volante">
             <h2>DOBLE COMANDO</h2>
-            <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
+            <p>Contamos con doble comando para que puedas aprender mejor</p>
         </div>
         <div class="item" data-aos="fade-up">
             <img src="../assets/imgs/pago.svg" alt="icono de ">
             <h2>FORMAS DE PAGO</h2>
-            <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
+            <p>Transferencia, Mercado Pago, Efectivo</p>
         </div>
         <div class="item" data-aos="fade-up">
             <img src="../assets/imgs/ubicacion.svg" alt="icono de ubicación">
             <h2>UBICACIÓN</h2>
-            <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
+            <p>Ituzaingó, Buenos Aires</p>
         </div>
         <div class="item" data-aos="fade-up">
             <img src="../assets/imgs/calendario.svg" alt="icono de calendario">
             <h2>HORARIOS</h2>
-            <p>jwoeghskdj dshjisdghiohdsg hiosdhgoihdsg ihodsdihgoh</p>
+            <p>Lunes a Sábado. Horarios a combinar</p>
         </div>
       </div>
     </section>
