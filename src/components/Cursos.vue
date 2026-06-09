@@ -23,6 +23,8 @@
 </template>
 
 <script>
+import { db } from "@/firebase";
+import { collection, getDocs } from "firebase/firestore";
   export default{
       name: "Cursos",
       data() {
@@ -30,9 +32,20 @@
       items: [],
     };
   },
-  mounted:function(){
-      this.items=JSON.parse(localStorage.getItem("cursos"))
-  },
+   async mounted() {
+    try {
+      const snapshot = await getDocs(collection(db, "cursos"));
+
+      this.items = snapshot.docs.map(doc => ({
+        id: doc.id,
+        ...doc.data()
+      }));
+
+      console.log(this.items);
+    } catch (error) {
+      console.error("Error al obtener cursos:", error);
+    }
+  }
 }
 </script>
 
