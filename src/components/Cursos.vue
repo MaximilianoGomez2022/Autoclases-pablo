@@ -32,7 +32,7 @@ import { collection, getDocs } from "firebase/firestore";
       items: [],
     };
   },
-   async mounted() {
+   async mounted(){
     try {
       const snapshot = await getDocs(collection(db, "cursos"));
 
