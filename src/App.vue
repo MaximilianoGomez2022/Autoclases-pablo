@@ -40,7 +40,8 @@ export default {
 //     console.log(typeof response)
 //     localStorage.setItem("cursos",JSON.stringify(this.cursos))})
 //   .catch( err => console.error(err),);
-// },}
+// },
+}
 </script>
 
 
