@@ -31,16 +31,16 @@ export default {
   data: () => ({
     cursos : []
   }),
-  mounted:function(){
+//   mounted:function(){
 
-  fetch("https://cambiojuez.000webhostapp.com/api/cursos-todos.php")
-  .then(response => response.json())
-  .then(response => {
-    this.cursos = response;
-    console.log(typeof response)
-    localStorage.setItem("cursos",JSON.stringify(this.cursos))})
-  .catch( err => console.error(err),);
-},}
+//   fetch("https://cambiojuez.000webhostapp.com/api/cursos-todos.php")
+//   .then(response => response.json())
+//   .then(response => {
+//     this.cursos = response;
+//     console.log(typeof response)
+//     localStorage.setItem("cursos",JSON.stringify(this.cursos))})
+//   .catch( err => console.error(err),);
+// },}
 </script>
 
 
