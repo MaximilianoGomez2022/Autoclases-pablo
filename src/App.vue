@@ -7,7 +7,7 @@
     <Footer/>
     <div class="logo-wsp">
       <a href="https://api.whatsapp.com/send?phone=1532528163" target="_blank">
-        <img src="https://cambiojuez.000webhostapp.com/api/wspp.png" alt="WhatsApp">
+        <img src="/wspp.png" alt="WhatsApp">
       </a>
     </div>
   </div>
